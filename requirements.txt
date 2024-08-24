@@ -1,0 +1,9 @@
+praw
+scikit-learn
+pandas
+matplotlib
+nltk
+plotly
+torch
+wordcloud
+transformers
